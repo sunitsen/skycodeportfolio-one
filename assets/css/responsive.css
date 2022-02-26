@@ -71,7 +71,9 @@
     .hero .carousel-item p{
      display: none;
     }
-
+    .slider-thumb{
+      display: none;
+    }
   }
 
 
