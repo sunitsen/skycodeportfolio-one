@@ -348,7 +348,8 @@
   
 }
 .slider-thumb{
-  overflow-x: h;
+  overflow-x: hidden;
+
 }
 @keyframes sliderShape{
   0%,100%{
